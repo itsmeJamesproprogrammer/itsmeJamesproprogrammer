@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @itsmeJamesproprogrammer
-- 👀 I’m interested in coding, programming, forex, physical sports activities, and being a software programmer.
-- 🌱 I’m currently learning in different types of Programming languages like C language, Pyhton, and Java.
-- 💞️ I’m looking to collaborate on Programming teams who can develop and innovate softwares and systems that are demanded in Big Companies.
+- 👀 I’m interested in coding, programming, web development, cybersecurity, and software engineering.
+- 🌱 I’m currently learning in different types of programming languages like C/C++, Python, Java, VbNet.
+- 💞️ I’m looking to collaborate on programming teams who can develop and innovate softwares and systems that are demanded in IT Industry.
 - 📫 How to reach me justs message this username ;).
+- Contacts: github.com/itsmeJamesproprogrammer
 
 <!---
 itsmeJamesproprogrammer/itsmeJamesproprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
